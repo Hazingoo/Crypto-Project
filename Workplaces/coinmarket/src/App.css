@@ -1,0 +1,16 @@
+* {
+  margin: 0px;
+}
+
+.image {
+  height: 100px;
+  width: 100px;
+}
+
+.my-node-enter {
+  opacity: 0;
+}
+.my-node-enter-active {
+  opacity: 1;
+  transition: opacity 200ms;
+}
